@@ -12,7 +12,6 @@ $(function(){
 					} else {
 						var letter = alphabet[j+shift];
 					}
-					alert(letter);
 					$('#result-container').append(letter);
 				}
 			}
